@@ -52,7 +52,7 @@
     "url": "https://github.com/dinerocoin/bitcore-p2p-dinero.git"
   },
   "dependencies": {
-    "bitcore-lib-dinero": "^0.15.2",
+    "bitcore-lib-dinero": "dinerocoin/bitcore-lib-dinero",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^0.3.6"
